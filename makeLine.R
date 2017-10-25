@@ -6,4 +6,5 @@ a <- 100
 y <- b*x + a
 
 
-plot(x, y, xlab = "Independent variable", ylab = "Dependent variable")
+plot(x, y, xlab = "Independent variable", ylab = "Dependent variable",
+     type = "l")
