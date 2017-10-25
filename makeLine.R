@@ -1,5 +1,6 @@
 # Example R script
 # This makes a line with a slope and intercept
+# And it also makes a parabola
 
 x <- -10:10
 b <- -2
